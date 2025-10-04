@@ -12,7 +12,11 @@ os.environ['OPENAI_BASE_URL'] = 'https://openrouter.ai/api/v1'
 
 # Creating a specialized agent team
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 search_tool = SerperDevTool()
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
